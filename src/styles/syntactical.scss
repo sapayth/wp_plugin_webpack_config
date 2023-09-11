@@ -1,0 +1,9 @@
+.aun {
+  &.test {
+    background: blue;
+
+    .hello {
+      color: green;
+    }
+  }
+}
